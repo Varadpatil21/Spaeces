@@ -1,0 +1,10 @@
+.stick{
+    width: 30px;
+    height: 200px;
+    margin-left:-5px ;
+    position: relative;
+}
+
+.stick:hover{
+    margin-bottom: 100px;
+}

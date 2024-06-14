@@ -1,0 +1,15 @@
+.player-setup{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end; 
+    height: 100vh; 
+    padding: 20px;
+    box-sizing: border-box;
+}
+.sticks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-bottom: 0;
+}
